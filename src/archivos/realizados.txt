@@ -1,0 +1,23 @@
+perro (sencillo)                                ,3000,1,1
+agua                                            ,3000,1,1
+cupcake                                      ,4000,3,1
+perro (sencillo)                                ,3000,1,1
+agua                                            ,3000,1,1
+cupcake                                      ,4000,1,1
+perro (sencillo)                                ,3000,1,1
+perro (sencillo)                                ,3000,1,1
+agua                                            ,3000,1,1
+cupcake                                      ,4000,1,1
+perro (sencillo)                                ,3000,1,1
+agua                                            ,3000,1,1
+cupcake                                      ,4000,1,1
+perro (sencillo)                                ,3000,1,1
+agua                                            ,3000,1,1
+cupcake                                      ,4000,1,1
+choripapa                                       ,1100,1,1
+napoleon                                    ,5000,1,1
+helado                                        ,5000,1,1
+helado                                        ,5000,1,1
+pastel (porcion)                         ,6000,1,1
+perro (sencillo)                                ,3000,1,1
+agua                                            ,3000,1,1
